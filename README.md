@@ -25,7 +25,3 @@ https://openweathermap.org/current
 * `axios`
 
 
-
-### How can I appreciate this repo? ###
-
-* By giving this repo a 🌟
